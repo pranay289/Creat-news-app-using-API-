@@ -1,2 +1,2 @@
 # Creat-news-app-using-API-
-I am using newsapi.org site for creating a sample news app using retrofit
+To make api files go this website http://www.jsonschema2pojo.org/
